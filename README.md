@@ -1,10 +1,15 @@
 # Optimization-Problem
 Exam Solution of Computational Economics at LMU
+
 Lecturer: Alexander Schmidt
+
 grade:1.3
 
-# Contribution
-Any contributions are welcomed
+# About
+http://r-santaeulalia.net/pdfs/QM-Function_Approximation.pdf
 
-#Contact
+# Contribution
+Any contribution is welcomed
+
+# Contact
 e-mail:kubraakocakk@hotmail.com
